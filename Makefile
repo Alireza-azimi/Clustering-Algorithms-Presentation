@@ -8,8 +8,5 @@ all: out
 out:
 	mkdir -p out
 
-view:
-	evince -s out/*.pdf
-
 clean:
 	rm -rf out
