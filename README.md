@@ -34,7 +34,7 @@ You can compile the presentation using the provided `Makefile` or with the follo
 
 ```bash
 xelatex -shell-escape -interaction=nonstopmode presentation.tex
-
+```
 ## فارسی
 
 ### مرور کلی
